@@ -5,4 +5,4 @@ A group project that modeled the global spread of Ebola
 
 Group members: Elliott Krome, Edward Moore, Alexander Smith, Kyle Brown
 
-![alt tag](https://raw.githubusercontent.com/elliottkrome/analytics_challenge_example/website/map_screenCap.png)
+![alt tag](https://github.com/elliottkrome/analytics_challenge_example/blob/master/website/map_screenCap.png)
